@@ -1,0 +1,17 @@
+C:\Users\GHOST\source\repos\Sv_Poker\Sv_Poker\bin\Debug\net8.0-windows\Sv_Poker.exe
+C:\Users\GHOST\source\repos\Sv_Poker\Sv_Poker\bin\Debug\net8.0-windows\Sv_Poker.deps.json
+C:\Users\GHOST\source\repos\Sv_Poker\Sv_Poker\bin\Debug\net8.0-windows\Sv_Poker.runtimeconfig.json
+C:\Users\GHOST\source\repos\Sv_Poker\Sv_Poker\bin\Debug\net8.0-windows\Sv_Poker.dll
+C:\Users\GHOST\source\repos\Sv_Poker\Sv_Poker\bin\Debug\net8.0-windows\Sv_Poker.pdb
+C:\Users\GHOST\source\repos\Sv_Poker\Sv_Poker\obj\Debug\net8.0-windows\Sv_Poker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GHOST\source\repos\Sv_Poker\Sv_Poker\obj\Debug\net8.0-windows\Sv_Poker.AssemblyInfoInputs.cache
+C:\Users\GHOST\source\repos\Sv_Poker\Sv_Poker\obj\Debug\net8.0-windows\Sv_Poker.AssemblyInfo.cs
+C:\Users\GHOST\source\repos\Sv_Poker\Sv_Poker\obj\Debug\net8.0-windows\Sv_Poker.csproj.CoreCompileInputs.cache
+C:\Users\GHOST\source\repos\Sv_Poker\Sv_Poker\obj\Debug\net8.0-windows\Sv_Poker.dll
+C:\Users\GHOST\source\repos\Sv_Poker\Sv_Poker\obj\Debug\net8.0-windows\refint\Sv_Poker.dll
+C:\Users\GHOST\source\repos\Sv_Poker\Sv_Poker\obj\Debug\net8.0-windows\Sv_Poker.pdb
+C:\Users\GHOST\source\repos\Sv_Poker\Sv_Poker\obj\Debug\net8.0-windows\Sv_Poker.genruntimeconfig.cache
+C:\Users\GHOST\source\repos\Sv_Poker\Sv_Poker\obj\Debug\net8.0-windows\ref\Sv_Poker.dll
+C:\Users\GHOST\source\repos\Sv_Poker\Sv_Poker\bin\Debug\net8.0-windows\WindowsInput.dll
+C:\Users\GHOST\source\repos\Sv_Poker\Sv_Poker\obj\Debug\net8.0-windows\Sv_Poker.csproj.AssemblyReference.cache
+C:\Users\GHOST\source\repos\Sv_Poker\Sv_Poker\obj\Debug\net8.0-windows\Sv_Poker.csproj.Up2Date
