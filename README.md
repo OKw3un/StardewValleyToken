@@ -26,6 +26,10 @@ How to Use
 
 -Run the program while Stardew Valley is open.
 
+-Ensure the game is in windowed mode (not fullscreen).
+
+-Make sure the hoe is assigned to the 6 key and the seeds are assigned to the 7 key in your inventory.
+
 -Enter the desired width and length for the area you want to automate.
 
 -The program will bring the game to the foreground, simulate the necessary inputs, and perform farming tasks on your behalf.
