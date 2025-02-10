@@ -1,4 +1,5 @@
 Farm Automation for Stardew Valley
+
 This project automates farming tasks in Stardew Valley by simulating keyboard and mouse inputs using the WindowsInput library. The automation includes activities such as tilling the soil, sowing seeds, and navigating the in-game map to cover a specified area (width and length). The script also ensures that the game window stays in focus and performs actions like escaping the game menu.
 
 Features
